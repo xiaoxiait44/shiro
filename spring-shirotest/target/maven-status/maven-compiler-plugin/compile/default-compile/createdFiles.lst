@@ -1,0 +1,3 @@
+com\shiro\usershiro\User.class
+com\shiro\controller\ShiroFilerController.class
+com\shiro\realm\CustomRealm.class
